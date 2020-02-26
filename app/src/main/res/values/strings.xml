@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Taller1Login</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="text_id">id</string>
+    <string name="text_name">Name</string>
+    <string name="text_emailAddress">SIGN OUT</string>
+    <string name="email_address">Email Address</string>
+    <string name="texto_usuario">Usuario</string>
+    <string name="texto_password">Password</string>
+    <string name="texto_login">LOG IN</string>
+    <string name="texto_logingoogle">LOGIN WITH GOOGLE</string>
+    <string name="texto_registrarse">REGISTRATION</string>
+    <string name="texto_registrer">REGISTRER</string>
+    <string name="or">or</string>
+    <string name="hint_usuario">"Digite su usuario</string>
+    <string name="hint_password">"Digite su password</string>
+    <string name="hint_nombre">"Digite su nombre"</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text_visibility">Visibility</string>
+    <string name="text_showPsw">Show Password</string>
+    <string name="text_anterior">anterior</string>
+</resources>
